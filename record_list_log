@@ -1,0 +1,10 @@
+08/08/21 07:42:05 | Event: Create log file | Message: created log file | Status: Succeeded
+08/08/21 07:42:06 | Event: Print all record list with amounts | Message: done | Status: Succeeded
+08/08/21 07:42:15 | Event: Inser New Record | Message: done | Status: Successfully
+08/08/21 07:42:25 | Event: Print all record list with amounts | Message: done | Status: Succeeded
+08/08/21 07:42:30 | Event: Print all record list with amounts | Message: done | Status: Succeeded
+08/08/21 07:42:43 | Event: Inser New Record | Message: done | Status: Successfully
+08/08/21 07:42:59 | Event: Print all record list with amounts | Message: done | Status: Succeeded
+08/08/21 07:43:06 | Event: Delete Record | Message: done | Status: Successfully
+08/08/21 07:43:24 | Event: Print all record list with amounts | Message: done | Status: Succeeded
+08/08/21 07:43:32 | Event: In MENU | Message: Pressed Exit from program | Status: Succeeded
